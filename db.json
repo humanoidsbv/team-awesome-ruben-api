@@ -1,0 +1,112 @@
+{
+  "time-entries": [
+    {
+      "client": 0.1,
+      "id": 0.7126207026647605,
+      "startTimestamp": "2019-09-23T07:00:00.000Z",
+      "stopTimestamp": "2019-09-23T15:30:00.000Z"
+    },
+    {
+      "client": 0.2,
+      "id": 0.6126207026647605,
+      "startTimestamp": "2019-09-29T07:00:00.000Z",
+      "stopTimestamp": "2019-09-29T15:30:00.000Z"
+    },
+    {
+      "client": 0.2,
+      "id": 0.40129429262868577,
+      "startTimestamp": "2019-10-07T07:00:00.000Z",
+      "stopTimestamp": "2019-10-07T15:30:00.000Z"
+    },
+    {
+      "client": 0.1,
+      "id": 0.19138629715571076,
+      "startTimestamp": "2019-10-07T07:00:00.000Z",
+      "stopTimestamp": "2019-10-07T15:30:00.000Z"
+    }
+  ],
+  "team-members": [
+    {
+      "id": 0.1,
+      "firstName": "Antje",
+      "lastName": "Adriaens",
+      "emailAdress": "Antje@Humanoids.nl",
+      "locality": "Amsterdam",
+      "postalCode": "2521 CJ",
+      "homeAdress": "Waldorpstraat",
+      "avatar": "URL",
+      "linkedIn": "@aAdriaens",
+      "facebook": "AntjeAdriaens",
+      "role": "UX Designer",
+      "startingDate": "February 2018",
+      "employeeNumber": "HUM_001",
+      "currentClient": "Hike One",
+      "bio": "bio"
+    },
+    {
+      "bio": "",
+      "currentClient": "Port of Rotterdam",
+      "employeeNumber": "HUM_002",
+      "firstName": "Thanh nghi",
+      "homeAdress": "Amsterdam",
+      "id": 0.3,
+      "lastName": "Than",
+      "locality": "Amsterdam",
+      "role": "Front-end Developer",
+      "startingDate": "february 2019",
+      "postalCode": "3122PM"
+    },
+    {
+      "bio": "--",
+      "currentClient": "Humanoids",
+      "employeeNumber": "HUM_004",
+      "firstName": "Dylan",
+      "homeAdress": "Amsterdamse Straatweg 20",
+      "id": 0.6683800046841879,
+      "lastName": "Jongbloed",
+      "locality": "Utrecht",
+      "role": "Front-end Developer",
+      "startingDate": "september 2019",
+      "postalCode": "4142 QR"
+    },
+    {
+      "bio": "Gek op bloemen!",
+      "currentClient": "Humanoids",
+      "employeeNumber": "HUM_003",
+      "firstName": "Ruben",
+      "homeAdress": "Havenstraat 20",
+      "id": 0.6381712316425452,
+      "lastName": "Werdmuller",
+      "locality": "Utrecht",
+      "role": "Front-end Developer",
+      "startingDate": "september 2019",
+      "postalCode": "5201HM"
+    }
+  ],
+  "clients": [
+    {
+      "branch": "-",
+      "branchAdress": "Europoort Rotterdam",
+      "companyName": "Port of Rotterdam",
+      "id": 0.1,
+      "locality": "--",
+      "postalCode": "--"
+    },
+    {
+      "branch": "Main office",
+      "branchAdress": "Veilingweg 14",
+      "companyName": "Koppert",
+      "locality": "Berkel en Rodenrijs",
+      "postalCode": "2651 BE",
+      "id": 0.2
+    },
+    {
+      "branch": "Main Office",
+      "branchAdress": "--",
+      "companyName": "H&M",
+      "id": 0.3,
+      "locality": "--",
+      "postalCode": "--"
+    }
+  ]
+}
